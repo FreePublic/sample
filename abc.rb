@@ -10,4 +10,4 @@ class Sample
 end
 
 p Sample.array_sort(["a","b","c"], ["ga",2,3])
-
+p "Hello"
